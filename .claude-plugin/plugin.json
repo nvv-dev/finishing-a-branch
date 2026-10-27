@@ -1,0 +1,16 @@
+{
+  "name": "finishing-a-branch",
+  "version": "0.1.0",
+  "description": "Final checks, self-review of the diff, Conventional Commits and a PR description; never merges or pushes to main.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/finishing-a-branch",
+  "repository": "https://github.com/nvv-dev/finishing-a-branch",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
